@@ -1,10 +1,7 @@
 primera modificación
 segunda modificación
-<<<<<<< HEAD
-tercera modificación
-=======
 tercera modificación
 cuarta  modificación
 quinta  modificación
 sexta   modificación
->>>>>>> 5e1f9bc (sexta  modificación)
+
